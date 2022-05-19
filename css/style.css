@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.nav-item
+{
+text-transform: uppercase;
+padding-left: 1em;
+color: white!important;
+}
+nav
+{
+	box-shadow: 1px 3px 5px gray!important;
+}
+
+.me-2{
+
+margin-left: 639px;
+}
