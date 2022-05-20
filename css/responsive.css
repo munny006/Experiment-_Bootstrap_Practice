@@ -1,0 +1,20 @@
+@media(max-width: 768px){
+	#project .card{
+		margin-bottom: 18px;
+	}
+	
+}
+@media(max-width:767px){
+.display-3 {
+  float: right;
+margin-right: 12%;
+margin-top: -155px;
+}
+.carousel-item p {
+  margin-top: -97px;
+margin-right: -19%;
+}
+.carousel-item button{
+	margin-right: -5%;
+}
+	}

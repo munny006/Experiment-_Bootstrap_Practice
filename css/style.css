@@ -17,3 +17,26 @@ nav
 
 margin-left: 639px;
 }
+
+
+.nav-tabs .active{
+	background-color: blue!important;
+}
+
+footer a{
+	text-decoration: none!important;
+}
+.display-3 {
+  
+  float: right;
+  margin-right: -43%;
+  margin-top: -257px;
+}
+.carousel-item p {
+  margin-top: -172px;
+  
+  margin-right: -123%;
+}
+.carousel-item button{
+	margin-right: -111%;
+}
